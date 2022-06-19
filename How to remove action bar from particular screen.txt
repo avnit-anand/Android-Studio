@@ -1,0 +1,3 @@
+How to remove action bar from particular screen ?
+—> Go to the .java of this activity.
+—> In java file, getSupportActionBar().hide();
