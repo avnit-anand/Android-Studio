@@ -1,4 +1,4 @@
 How to add Background in Android Studio ?
 —> Copy the image you want to use as background and paste in res>drawable folder.
 —> In xml, android:background="@drawable/background"
-	background is the image name.
+	// {background is the image name.}
